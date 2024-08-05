@@ -31,7 +31,7 @@ This project is a web-based report framework that displays and filters employee 
 ![image](https://github.com/user-attachments/assets/42862275-9d14-4f71-85d0-2a97c84809da)
 ![image](https://github.com/user-attachments/assets/fd77a075-29ab-4fa0-984c-81399d254c45)
 
-The second image shows how the filters could be applied.
+The second image shows just simple example of filtering age less than or equal to 34. More such complex combinations of filters can be applied.
 
 
 
