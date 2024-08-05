@@ -1,0 +1,2 @@
+# No server-side or external dependencies are required for this project.
+# If we want to fetch the data from API then npm install node-fetch.
